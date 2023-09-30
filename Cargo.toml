@@ -6,7 +6,7 @@ authors = ["inintencunter <2911583893@qq.com>"]
 description = "猜数字游戏，命令行版"
 license = "AGPL-3.0"
 keywords = ["guess","game"]
-repository = "https://github.com/initialencounter/guess-num"
+repository = "https://github.com/initialencounter/guessnumgame"
 homepage = "https://initialencounter.github.io/docu/"
 include = ["readme.md","src","Cargo.toml"]
 
