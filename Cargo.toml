@@ -1,0 +1,14 @@
+[package]
+name = "guessnumgame"
+version = "0.1.0"
+edition = "2021"
+authors = ["inintencunter <2911583893@qq.com>"]
+description = "猜数字游戏，命令行版"
+license = "AGPL-3.0"
+keywords = ["guess","game"]
+repository = "https://github.com/initialencounter/guess-num"
+homepage = "https://initialencounter.github.io/docu/"
+include = ["readme.md","src","Cargo.toml"]
+
+[dependencies]
+rand = "0.8.5"
